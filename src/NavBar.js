@@ -1,7 +1,6 @@
 import'./NavBar.css'
 import  {Container, Nav, Navbar } from 'react-bootstrap'
 
-/*
 function NavBar(){
     return(
         <Navbar bg="dark" variant="dark">
@@ -24,9 +23,9 @@ function NavBar(){
       </Navbar>
     )
 }
-*/
 
-function NavBar(){
+/* Esta Funcion de abajo es para probar. No se si funciona. 
+/*function NavBar(){
     return(
   <div>
       <Navbar bg="dark" variant="dark">
@@ -55,12 +54,8 @@ function NavBar(){
 
     )
 }
-
+*/
 export default NavBar;
-
-
-
-
 
 
 
